@@ -1,0 +1,9 @@
+.heading1 {
+    background-color: yellow;
+}
+#font {
+    color: red;
+}
+* {
+   font-family: Arial, Helvetica, sans-serif; 
+}
